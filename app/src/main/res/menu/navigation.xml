@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_surah"
+        android:icon="@drawable/ic_surah"
+        android:title="Surah" />
+
+    <item
+        android:id="@+id/nav_juz"
+        android:icon="@drawable/ic_juz"
+        android:title="Juz" />
+
+    <item
+        android:id="@+id/nav_mekah"
+        android:icon="@drawable/ic_mekah"
+        android:title="Makkiyah" />
+
+    <item
+        android:id="@+id/nav_madinah"
+        android:icon="@drawable/ic_madaniyah"
+        android:title="Madaniyah"/>
+
+</menu>
